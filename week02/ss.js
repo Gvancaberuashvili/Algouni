@@ -1,3 +1,5 @@
+const prompt = require('prompt-sync')();
+
 // // დაწერეთ პროგრამა, რათა შეამოწმოთ რიცხვი ლუწია თუ კენტი.
 let num = 9;
 if (num%2==0){
